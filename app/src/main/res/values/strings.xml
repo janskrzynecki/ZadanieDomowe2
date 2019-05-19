@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ZadanieDomowe2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">...</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="nazwa_wydarzenia">Nazwa wydarzenia</string>
+    <string name="data_wydarzenia">Data wydarzenia</string>
+    <string name="kr_tki_opis">Krótki opis</string>
+    <string name="delete_question">Czy chcesz usunąć wpis?</string>
+    <string name="dialog_confirm">OK</string>
+    <string name="dialog_cancel">Anuluj</string>
+    <string name="myFileprovider">com.js.zadaniedomowe2.fileprovider</string>
+
+</resources>
